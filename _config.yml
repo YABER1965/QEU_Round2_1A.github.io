@@ -1,1 +1,19 @@
+title: QEU ver2.1 Wind Valley's blog(外観自動検査技術編)
+description: I am trying to merge fastai and Taguchi methods
+github_username: YABER2022
+
 theme: jekyll-theme-cayman
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
