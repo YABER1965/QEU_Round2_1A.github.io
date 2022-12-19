@@ -4,6 +4,9 @@ github_username: YABER2022
 
 theme: jekyll-theme-cayman
 
+plugins:
+  - jekyll-feed
+
 titles_from_headings:
   enabled:     true
   strip_title: true
