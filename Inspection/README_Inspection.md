@@ -8,19 +8,12 @@ QEU ROUND 2-1 Introduction
 | DATE | FILE | TITLE |
 |:---:|:---:|:---|
 | 2022-04-08 | QEUR21_VINSP0.md |  QEUR21_VINSP0:　GANを越えろ！！ (QEU:ROUND2-1) |
- 
 | 2022-04-08 | QEUR21_VINSP1.md |  QEUR21_VINSP1:　検査のためのCUBISME（キュービズム）(その１，概要) |
-
 | 2022-04-08 | QEUR21_VINSP2.md |  QEUR21_VINSP2:　RT-Conv法（その１）～畳み込み(Convolution)のみを行う |
-
-| 2022-04-08 | QEUR21_VINSP3.md |  QEUR21_VINSP3:　 RT-Conv法（その2）～RTメトリックスを計算する
- |
-| 2022-04-09 | QEUR21_VINSP4.md |  QEUR21_VINSP4:　 RT-Conv法（その3）～マハラノビス距離で分布を形成する
- |
-| 2022-04-09 | QEUR21_VINSP5.md |  QEUR21_VINSP5:　 RT-Conv法（その4）～条件を変えて再トライ
- |
-| 2022-04-24 | QEUR21_VINSP6.md | QEUR21_VINSP6: 閑話休題 ～ 畳み込み(Convolution)
- |
+| 2022-04-08 | QEUR21_VINSP3.md |  QEUR21_VINSP3:　 RT-Conv法（その2）～RTメトリックスを計算する |
+| 2022-04-09 | QEUR21_VINSP4.md |  QEUR21_VINSP4:　 RT-Conv法（その3）～マハラノビス距離で分布を形成する |
+| 2022-04-09 | QEUR21_VINSP5.md |  QEUR21_VINSP5:　 RT-Conv法（その4）～条件を変えて再トライ |
+| 2022-04-24 | QEUR21_VINSP6.md | QEUR21_VINSP6: 閑話休題 ～ 畳み込み(Convolution) |
 | 2022-04-28 | QEUR21_VINSP7.md |  QEUR21_VINSP7: オリエンテーション ～ 旧プロジェクト技術明細書(両目法_日本語版)
  |
 | 2022-04-28 | QEUR21_VINSP8.md |  QEUR21_VINSP8: オリエンテーション ～ 旧プロジェクト技術明細書(Double-eye-method, English ver.)
